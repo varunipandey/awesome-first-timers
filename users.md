@@ -50,7 +50,13 @@
   Bio: alert('web developer')  
   GitHub: [Hui Chng](https://github.com/huiyie)  
   Facebook:  
-
+  
+- Name: Varuni Pandey  
+  Place: Manipal, India  
+  Bio: Developer under development  
+  GitHub: [Varuni Pandey](https://github.com/varunipandey)   
+  Facebook: Varuni Pandey  
+  
 - Name: Marcus Koh Chi Hao  
   Place: Singapore  
   Bio: Coding Is Life.  
